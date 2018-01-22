@@ -19,8 +19,12 @@ h1 {
   color: white;
 }
 
-#process {
+.supporting h2 {
   font-size: 32px;
+}
+
+h2 {
+  font-size: 23px;
   font-weight: bold;
 }
 
